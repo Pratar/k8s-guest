@@ -2,7 +2,7 @@
 
 Example to start Guest book to kubernetes:
 
-kubectl create -f <yaml>
+kubectl create -f "<yaml>"
 
 1. backend-master-deployment.yaml
 2. backend-slave-deployment.yaml
