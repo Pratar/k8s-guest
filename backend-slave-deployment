@@ -11,7 +11,6 @@ spec:
   replicas: 2
   template:
     metadata:
-
       labels:
         app: redis
         role: slave
